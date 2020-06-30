@@ -1,0 +1,8 @@
+"Metadata": {
+          "SNC::Parameter::Metadata": {
+               
+        "vmSize":{
+                      "datasource":"ServiceNow::Pools::ComputeTemplatePool.getTemplateNameByLDC"
+                }
+            }
+    }
